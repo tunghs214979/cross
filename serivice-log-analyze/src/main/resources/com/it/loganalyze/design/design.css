@@ -1,0 +1,22 @@
+.tgbtn {
+    -fx-background-color: #dddddd;
+}
+
+.tgbtn:hover {
+    -fx-background-color:  #999999;
+    -fx-cursor: hand;
+}
+
+.logTitle:hover {
+    -fx-background-color: #1299f6;
+    -fx-text-fill: #ffffff;
+}
+
+.dashboard:hover {
+    -fx-cursor: hand;
+}
+
+.titled-pane .title {
+    -fx-translate-y: 100%;
+}
+
